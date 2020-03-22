@@ -1,0 +1,4 @@
+not going to lie this took me so much longer than it needed to
+not sure if it was due to being very tired on not completely having my head around pointers (understand it way better now)
+got stuck for a solid 50 minutes ,but all i had to do was change the object the pointer was pointing at instead of trying
+to make the pointer = to another pointer
