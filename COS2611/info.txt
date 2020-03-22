@@ -1,0 +1,1 @@
+This module is mostly about data structures. Also very big book kinda scared, but seems fun.
