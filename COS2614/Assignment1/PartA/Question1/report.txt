@@ -1,0 +1,4 @@
+This was kind easy. Struggled a little bit with how to configure the .pro file to get the dialog boixes and then also the 
+parameter requirements the instantiate the dialog boxes.
+
+
