@@ -1,0 +1,60 @@
+MAT1503 Linear Algebra I
+
+Name: Elementary Linear Algebra with supplemental Applications
+Authors: Anton, Howard & Rorres, Chris
+Edition: 11th or 12th
+Year: 2014
+Publisher: John Wiley & Sons or Wiley, Singapore
+
+----------------------------------------------------------------
+
+MAT1512 Calculus A
+
+Name: CALCULUS Metric version. EarlyTranscendentals
+Authors: James Stewart
+Edition: 8th preffered else 9th
+Year: 2018
+Publisher: Cengage Learning
+
+----------------------------------------------------------------
+
+MAT1613 Calculus B
+
+Name: CALCULUS Early Transcendentals(International Metric version)
+Authors: Stewart James
+Edition: 8th preffered else 9th
+Year: 2015
+Publisher: Cengage Learning
+
+----------------------------------------------------------------
+
+STA1501 Descriptive Statistics and Probabilities
+
+Name: Statistics for Management and Economics
+Authors: GERALD KELLER
+Edition: 2nd (EMEA edition)
+Year: 2020
+Publisher: Cengage Learning
+
+----------------------------------------------------------------
+
+STA1502 Statistical Inference I
+
+Name: Statistics for Management and Economics
+Authors: GERALD KELLER
+Edition: 2nd (EMEA edition)
+Year: 2020
+Publisher: Cengage Learning
+
+----------------------------------------------------------------
+
+STA1503 Distribution Theory I
+
+Name: Mathematical Statistics with Applications
+Authors: Wackerly, D. D.
+Edition: 7th
+Year: 2008
+Publisher: Cengage Learning
+
+
+
